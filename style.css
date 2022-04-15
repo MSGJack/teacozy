@@ -50,6 +50,8 @@ header {
 .teas {
     width: 80%;
     margin: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .some-teas {
