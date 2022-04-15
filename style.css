@@ -67,13 +67,17 @@ header {
     padding: 0 15px;
 }
 
+.locations h2 {
+    align-self: auto;
+}
+
 .where {
     width: 300px;
     background-color: black;
     color: seashell;
 }
 
-.some-tea img {
+.some-teas img {
     width: 300px;
     height: 200px;
 }
