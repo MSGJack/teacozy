@@ -63,11 +63,17 @@ header {
     justify-content: center;
     align-items: center;
     height: 500px;
-    flex-wrap: wrap;
+    flex-wrap: wrap;width: 70%;
+    padding: 0 15px;
 }
 
 .where {
     width: 300px;
     background-color: black;
     color: seashell;
+}
+
+.some-tea img {
+    width: 300px;
+    height: 200px;
 }
