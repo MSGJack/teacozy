@@ -29,3 +29,39 @@ header {
     text-decoration: underline;
     color: seashell;
 }
+
+.mission-statement {
+    display: flex;
+    justify-content: center;
+    height: 700px;
+}
+
+.goal {
+    width: 1200px;
+    background-color: black;
+}
+
+.teas {
+    width: 80%;
+    margin: auto;
+}
+
+.some-teas {
+    display: inline-block;
+    margin: 10px;
+    height: 200px;
+}
+
+.locations {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    flex-wrap: wrap;
+}
+
+.where {
+    width: 300px;
+    background-color: black;
+    color: seashell;
+}
