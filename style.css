@@ -48,8 +48,9 @@ header {
 }
 
 .goal {
-    width: 1200px;
+    width: 100%;
     background-color: black;
+    margin: auto;
 }
 
 #teas {
@@ -57,6 +58,7 @@ header {
     margin: auto;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .some-teas {
