@@ -41,7 +41,9 @@ header {
     display: flex;
     justify-content: center;
     height: 700px;
-    background-image: url('images/img-mission-background.jpg')
+    background-image: url('images/img-mission-background.jpg');
+    width: 70%;
+    align-content: center;
 }
 
 .goal {
@@ -80,6 +82,8 @@ header {
     width: 300px;
     background-color: black;
     color: seashell;
+    margin: 5px 0;
+    padding: 3px 2px;
 }
 
 .some-teas img {
