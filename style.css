@@ -97,6 +97,10 @@ header {
     align-self: auto;
 }
 
+.areas {
+    display: flex;
+}
+
 .where {
     width: 300px;
     background-color: black;
