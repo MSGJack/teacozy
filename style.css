@@ -97,7 +97,7 @@ header {
     align-self: auto;
 }
 
-.areas {
+#areas {
     display: flex;
 }
 
