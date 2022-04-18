@@ -42,7 +42,7 @@ header {
     justify-content: center;
     height: 700px;
     background-image: url('images/img-mission-background.jpg');
-    width: 70%;
+    width: 85%;
     align-content: center;
     background-repeat: no-repeat;
 }
@@ -67,12 +67,18 @@ header {
     height: 200px;
 }
 
+.some-teas img {
+    width: 300px;
+    height: 200px;
+}
+
 #locations {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 500px;
-    flex-wrap: wrap;width: 70%;
+    flex-wrap: wrap;
+    width: 70%;
     padding: 0 15px;
     background-image: url('images/img-locations-background.jpg');
 }
@@ -87,11 +93,7 @@ header {
     color: seashell;
     margin: 5px 0;
     padding: 3px 2px;
-}
-
-.some-teas img {
-    width: 300px;
-    height: 200px;
+    align-items: center;
 }
 
 #contacts {
