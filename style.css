@@ -93,7 +93,7 @@ header {
 }
 
 #areas {
-    display: flex;
+    display: inline-flex;
     padding: 85px 50px;
 }
 
