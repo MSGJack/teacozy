@@ -66,6 +66,11 @@ header {
     flex-wrap: wrap;
 }
 
+#list-of-tea {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .some-teas {
     display: inline-block;
     margin: 10px;
