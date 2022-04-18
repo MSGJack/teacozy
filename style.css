@@ -18,6 +18,10 @@ header {
 }
 
 .logo {
+    display: inline-flex;
+}
+
+.logo img {
     height: 50px;
 }
 
@@ -42,7 +46,7 @@ header {
     justify-content: center;
     height: 700px;
     background-image: url('images/img-mission-background.jpg');
-    width: 85%;
+    width: 100%;
     align-content: center;
     background-repeat: no-repeat;
     background-position: center;
@@ -65,7 +69,6 @@ header {
 .some-teas {
     display: inline-block;
     margin: 10px;
-    height: 200px;
 }
 
 .some-teas img {
