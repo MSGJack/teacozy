@@ -61,14 +61,12 @@ header {
 #teas {
     width: 80%;
     margin: auto;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
 }
 
 #list-of-tea {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 .some-teas {
@@ -93,7 +91,7 @@ header {
     background-position: center;
 }
 
-.locations h2 {
+#locations h2 {
     align-self: auto;
 }
 
@@ -101,7 +99,7 @@ header {
     width: 300px;
     background-color: black;
     color: seashell;
-    margin: 5px 0;
+    margin: 5px 7px;
     padding: 3px 2px;
     align-items: center;
 }
